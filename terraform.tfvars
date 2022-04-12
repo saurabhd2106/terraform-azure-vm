@@ -1,0 +1,8 @@
+rgName             = "terraform-rg"
+location           = "West Europe"
+vnetName           = "terraform-vnet"
+subnetName         = "terraform-subnet-1"
+public_ip_name     = "terraform-public-ip"
+nsgName            = "terraform-nsg"
+nicName            = "terraform-nic"
+virtualMachineName = "terraform-vm"
