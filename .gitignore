@@ -2,3 +2,4 @@
 .terraform.lock.hcl
 terraform.tfstate
 graph.svg
+terraform.tfstate.backup
